@@ -1,3 +1,4 @@
-# Contact-Us
-Feel free to go to the discussions tab and give suggestions for games we should make!
+# Contact us
 
+<h3 align="center"> Click our icon to visit. </h3>
+<p align="center"> <a href="https://1upCommunity.github.io"> <img src="https://avatars.githubusercontent.com/u/87221564"> </img> </a> </p>
